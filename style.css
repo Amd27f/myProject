@@ -1,0 +1,11 @@
+div {
+    background-color: #eee;
+    color: skyblue;
+    padding: 1px 10px;
+    margin: 20px auto;
+    width: 50%;
+    border-radius: 20px;
+    text-align: center;
+    border-bottom: #357d9a solid 3px;
+    box-shadow: 0 5px 10px #8080805a;
+}
