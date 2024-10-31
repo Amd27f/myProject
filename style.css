@@ -1,11 +1,11 @@
 div {
     background-color: #eee;
-    color: blueviolet;
+    color: skyblue;
     padding: 1px 10px;
     margin: 20px auto;
-    width: 40%;
+    width: 60%;
     border-radius: 20px;
     text-align: center;
-    border-bottom: #5d14a1 solid 3px;
+    border-bottom: #28667f solid 3px;
     box-shadow: 0 5px 10px #8080805a;
 }
